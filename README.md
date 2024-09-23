@@ -6,7 +6,6 @@
 🤖 Interested in deep learning, computer vision, and NLP
 📫 How to reach me: rezendpoll@gmail.com
 😄 Pronouns: he/him
-
 <!---
 rezenddpoll/rezenddpoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
