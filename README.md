@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on ML projects and learning advanced AI techniques
 - 💻 I enjoy building models using Python, TensorFlow, Keras, and PyTorch
 - 🤖 Interested in deep learning, computer vision, and NLP
-- 📫 How to reach me: rezendpoll@gmail.com
+- 📫 How to reach me: rezenddpoll@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
